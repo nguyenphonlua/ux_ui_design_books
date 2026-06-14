@@ -174,11 +174,18 @@ Nó là nguyên tắc bao trùm—trọng tài tối cao khi quyết định xem
 Khi tôi nhìn vào một trang Web, nó phải tự hiển nhiên. Rõ ràng. Tự giải thích.
 Tôi phải có thể "hiểu ra nó"—nó là gì và cách sử dụng nó—mà không cần tốn chút công sức suy nghĩ nào.
 
+<img src='images/5.png' alt='' width=600>
+
 **Những thứ khiến chúng ta phải suy nghĩ**
 Tất cả các loại thứ trên một trang Web có thể khiến chúng ta dừng lại và suy nghĩ không cần thiết. Hãy lấy tên gọi làm ví dụ. Những thủ phạm điển hình là những cái tên dễ thương, thông minh, do marketing tạo ra, hoặc tên kỹ thuật xa lạ.
+
+<img src='images/6.png' alt='' width=600>
+
 Khi bạn tạo một trang web, công việc của bạn là loại bỏ các dấu hỏi.
 Khi tôi nhìn vào một trang không khiến tôi phải suy nghĩ, tất cả các bong bóng suy nghĩ trên đầu tôi nói những điều như "OK, kia là_____. Và đó là một_____. Và kia là thứ tôi muốn."
 Nhưng khi tôi nhìn vào một trang khiến tôi phải suy nghĩ, tất cả các bong bóng suy nghĩ đều có dấu hỏi chấm.
+
+<img src='images/7.png' alt='' width=400>
 
 Một nguồn tạo ra dấu hỏi không cần thiết khác là các liên kết và nút không rõ ràng là có thể nhấp được. Là một người dùng, tôi không bao giờ phải dành một mili giây suy nghĩ xem mọi thứ có thể nhấp được hay không.
 Mỗi dấu hỏi chấm đều cộng thêm vào gánh nặng nhận thức của chúng ta, làm phân tán sự chú ý của chúng ta khỏi nhiệm vụ trước mắt.
