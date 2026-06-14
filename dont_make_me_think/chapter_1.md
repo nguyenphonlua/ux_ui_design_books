@@ -95,7 +95,17 @@ Rõ ràng, đã đến lúc cần có những ví dụ mới.
 Nói rằng máy tính, Internet và cách chúng ta sử dụng chúng đã thay đổi rất nhiều gần đây là nói giảm nói tránh. 
 Bối cảnh đã thay đổi theo ba cách:
 * **Công nghệ đã dùng "steroid".** Năm 2000, chúng ta sử dụng Web trên các màn hình tương đối lớn, với chuột hoặc bàn di chuột và bàn phím. Bây giờ chúng ta sử dụng những chiếc máy tính tí hon mà chúng ta mang theo bên mình mọi lúc, với camera, bản đồ thần kỳ, và toàn bộ thư viện sách và nhạc tích hợp sẵn.
+
+<img src='images/1.png' alt='' width=300>
+
+<img src='images/2.png' alt='' width=300>
+
+<img src='images/3.png' alt='' width=300>
+
 * **Bản thân Web tiếp tục cải thiện.** Ngay cả khi tôi sử dụng máy tính để bàn để làm tất cả những việc tôi luôn làm trên Web, các trang web tôi sử dụng có xu hướng mạnh mẽ và hữu ích hơn nhiều so với các tiền thân của chúng. Chúng ta đã quen với những thứ như tự động gợi ý và tự động sửa lỗi.
+
+<img src='images/4.png' alt='' width=300>
+
 * **Tính khả dụng đã trở thành xu hướng chủ đạo.** Năm 2000, không có nhiều người hiểu tầm quan trọng của tính khả dụng. Bây giờ, nhờ một phần lớn vào Steve Jobs (và Jonathan Ive), hầu như mọi người đều hiểu rằng nó quan trọng. Ngoại trừ việc bây giờ họ thường gọi nó là Thiết kế Trải nghiệm Người dùng (UXD hoặc UX).
 
 Đừng hiểu lầm tôi...
